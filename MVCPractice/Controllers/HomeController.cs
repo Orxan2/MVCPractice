@@ -17,7 +17,7 @@ namespace MVCPractice.Controllers
                 new Pot1
                 {
                     ID=1,
-                    Club="Lille",
+                    Club="PSG",
                     Country="France",
                     IsSelected=false
                 },
@@ -31,42 +31,42 @@ namespace MVCPractice.Controllers
                 new Pot1
                 {
                     ID=3,
-                    Club="Manchester City",
+                    Club="Liverpool",
                     Country="England",
                     IsSelected=false
                 },
                 new Pot1
                 {
                     ID=4,
-                    Club="Inter Milan",
+                    Club="Juventus",
                     Country="Italy",
                     IsSelected=false
                 },
                 new Pot1
                 {
                     ID=5,
-                    Club="Chelsea",
-                    Country="England",
+                    Club="Zenit",
+                    Country="Russia",
                     IsSelected=false
                 },
                 new Pot1
                 {
                     ID=6,
-                    Club="Villareal",
+                    Club="Real Madrid",
                     Country="Spain",
                     IsSelected=false
                 },
                 new Pot1
                 {
                     ID=7,
-                    Club="Sporting Lisbon",
+                    Club="Porto",
                     Country="Portugal",
                     IsSelected=false
                 },
                 new Pot1
                 {
                     ID=8,
-                    Club="Atletico Madrid",
+                    Club="Sevilla",
                     Country="Spain",
                     IsSelected=false
                 }
@@ -76,29 +76,29 @@ namespace MVCPractice.Controllers
                 new Pot2
                 {
                     ID=1,
-                    Club="Real Madrid",
+                    Club="Atletico Madrid",
                     Country="Spain",
                     IsSelected=false
                 },
                 new Pot2
                 {
                     ID=2,
-                    Club="Juventus",
-                    Country="Italy",
+                    Club="Barcelona",
+                    Country="Spain",
                     IsSelected=false
                 },
                 new Pot2
                 {
                     ID=3,
-                    Club="PSG",
-                    Country="France",
+                    Club="Ajax",
+                    Country="Niderland",
                     IsSelected=false
                 },
                 new Pot2
                 {
                     ID=4,
-                    Club="Sevilla",
-                    Country="Spain",
+                    Club="Chelsea",
+                    Country="England",
                     IsSelected=false
                 },
                 new Pot2
@@ -111,21 +111,21 @@ namespace MVCPractice.Controllers
                 new Pot2
                 {
                     ID=6,
-                    Club="Leipzig",
+                    Club="Borussia Dortmund",
                     Country="Germany",
                     IsSelected=false
                 },
                 new Pot2
                 {
                     ID=7,
-                    Club="Barcelona",
-                    Country="Spain",
+                    Club="Shakhtar Donetsk",
+                    Country="Ukraine",
                     IsSelected=false
                 },
                 new Pot2
                 {
                     ID=8,
-                    Club="Liverpool",
+                    Club="Manchester City",
                     Country="England",
                     IsSelected=false
                 }
@@ -135,8 +135,8 @@ namespace MVCPractice.Controllers
                 new Pot3
                 {
                     ID=1,
-                    Club="Porto",
-                    Country="Portugal",
+                    Club="Krasnodar",
+                    Country="Russia",
                     IsSelected=false
                 },
                 new Pot3
@@ -149,21 +149,21 @@ namespace MVCPractice.Controllers
                 new Pot3
                 {
                     ID=3,
-                    Club="Ajax",
-                    Country="Niderland",
+                    Club="Olympiacos",
+                    Country="Greece",
                     IsSelected=false
                 },
                 new Pot3
                 {
                     ID=4,
-                    Club="Benfica",
-                    Country="Portugal",
+                    Club="Lazio",
+                    Country="Italy",
                     IsSelected=false
                 },
                 new Pot3
                 {
                     ID=5,
-                    Club="Shakthar Donetsk",
+                    Club="Dinamo Kiev",
                     Country="Ukraine",
                     IsSelected=false
                 },
@@ -177,14 +177,14 @@ namespace MVCPractice.Controllers
                 new Pot3
                 {
                     ID=7,
-                    Club="Barcelona",
-                    Country="Spain",
+                    Club="Inter Milan",
+                    Country="Italy",
                     IsSelected=false
                 },
                 new Pot3
                 {
                     ID=8,
-                    Club="Wolfsburg",
+                    Club="Leipzig",
                     Country="Germany",
                     IsSelected=false
                 }
@@ -194,15 +194,15 @@ namespace MVCPractice.Controllers
                 new Pot4
                 {
                     ID=1,
-                    Club="Milan",
-                    Country="Italy",
+                    Club="Marseile",
+                    Country="France",
                     IsSelected=false
                 },
                 new Pot4
                 {
                     ID=2,
-                    Club="Young Boys",
-                    Country="Switzerland",
+                    Club="Borussia Monchengladbach",
+                    Country="Germany",
                     IsSelected=false
                 },
                 new Pot4
@@ -222,22 +222,22 @@ namespace MVCPractice.Controllers
                 new Pot4
                 {
                     ID=5,
-                    Club="Dinamo Kiev",
-                    Country="Ukraine",
+                    Club="Midtylland",
+                    Country="Denmark",
                     IsSelected=false
                 },
                 new Pot4
                 {
                     ID=6,
-                    Club="Zenit",
+                    Club="Locomative Moskwa",
                     Country="Russia",
                     IsSelected=false
                 },
                 new Pot4
                 {
                     ID=7,
-                    Club="Dinamo Zagreb",
-                    Country="Croatia",
+                    Club="Rennes",
+                    Country="France",
                     IsSelected=false
                 },
                 new Pot4
