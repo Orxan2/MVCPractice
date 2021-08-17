@@ -1,0 +1,47 @@
+﻿@model PotsViewModel;
+@{
+    ViewData["Title"] = "Index";
+}
+
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-3">
+                <ul class="list-group">
+                    <h1>First Group</h1>
+                    @foreach (var firstPot in Model.FirstPot)
+                    {
+                        <li class="list-group-item">@firstPot.Club</li>
+                    }
+                </ul>               
+            </div>
+            <div class="col-3">
+                <ul class="list-group">
+                    <h1>Second Group</h1>
+                    @foreach (var secondPot in Model.SecondPot)
+                    {
+                        <li class="list-group-item">@secondPot.Club</li>
+                    }
+                </ul>               
+            </div>
+            <div class="col-3">
+                <ul class="list-group">
+                    <h1>Third Group</h1>
+                    @foreach (var thirdPot in Model.ThirdPot)
+                    {
+                        <li class="list-group-item">@thirdPot.Club</li>
+                    }
+                </ul>                
+            </div>
+            <div class="col-3">
+                <ul class="list-group">
+                    <h1>Fourth Group</h1>
+                    @foreach (var fourthPot in Model.FourthPot)
+                    {
+                        <li class="list-group-item">@fourthPot.Club</li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
