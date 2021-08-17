@@ -125,8 +125,8 @@ namespace MVCPractice.Controllers
                 new Pot2
                 {
                     ID=8,
-                    Club="Manchester City",
-                    Country="England",
+                    Club="Feyenord",
+                    Country="Niderland",
                     IsSelected=false
                 }
             };
@@ -156,8 +156,8 @@ namespace MVCPractice.Controllers
                 new Pot3
                 {
                     ID=4,
-                    Club="Lazio",
-                    Country="Italy",
+                    Club="Besiktas",
+                    Country="Turkey",
                     IsSelected=false
                 },
                 new Pot3
