@@ -156,8 +156,8 @@ namespace MVCPractice.Controllers
                 new Pot3
                 {
                     ID=4,
-                    Club="Besiktas",
-                    Country="Turkey",
+                    Club="Lazio",
+                    Country="Italy",
                     IsSelected=false
                 },
                 new Pot3
